@@ -6,7 +6,7 @@
 
 body {
           /* background: #fcf6f5ff; */
-          background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+          background: linear-gradient(to top, #68EACC 0%, #497BE8 100%);
           color: #444;
           font-family: 'Roboto Condensed', sans-serif;
           display: flex;
